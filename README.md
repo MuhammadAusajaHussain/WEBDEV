@@ -1,2 +1,3 @@
 # WEBDEV
-My HTML CSS Practice
+My HTML CSS Practice.
+A place where I write whatever I practice
